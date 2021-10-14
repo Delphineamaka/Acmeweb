@@ -1,160 +1,129 @@
-body{
-	margin: 0;
+body {
+  margin: 0;
 }
 
-
-
-#title{
-	padding-bottom: 100px;
-
-
-}
- .title-image{
-	background-image: url("image/ccooddee.jpg");
-	background-position: center;
-	background-size: cover;
-	height: 450px;
-	width: 100%;
-	 position: absolute;
-	 
-
-
- }
- h3{
-	 text-align: center;
- }
-
-  h4{
-	  text-align: center;
-	  color: #fff;
-	  padding: 3%;
-  }
-  
- .title-h{
-	 font-family: "Montserrat-Bold";
-	 position: relative;
-	 color: #fff;
-	 text-align: center;
-	 padding:6% 25% 0;
-	 line-height: 1.5;
-	 
-	 
- }
-
- .title-p{
-	 font:  sans-serif;
-	 font-weight: 4;
-	position: relative;
-	color: #fff;
-	text-align: center;
-	padding: 2% 25% 1%;
-	left: 1.5;
-
-
- }
-
-  
-.read-me-btn{
-	margin-left: 40%;
-	padding: 1% 40px 1% 40px;
-		 
-	
+#title {
+  padding-bottom: 100px;
 }
 
-
-
-#features{
-	text-align: center;
-	background-color: #8a8c92;
-	position: relative;
-	padding: 5% 10%;
+.title-image {
+  background-image: url("image/ccooddee.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+  width: 100%;
+  position: absolute;
 }
 
-.features-para{
-	padding: 3% 8%;
+h3 {
+  text-align: center;
 }
 
-#Grid{
-	padding: 2% 15% 5% 15%;
-	background-color: lightslategray;
+h4 {
+  text-align: center;
+  color: #fff;
+  padding: 3%;
 }
 
-
-.col-lg-4{
-	background-color: #000;
-	padding-bottom: 10%;
-	
+.title-h {
+  font-family: "Montserrat-Bold";
+  position: relative;
+  color: #fff;
+  text-align: center;
+  padding: 6% 25% 0;
+  line-height: 1.5;
 }
 
-.grid-img{
-	width: 100%;
-	height: 50%;
-	background-color: #BEC2CB;
-	object-fit: cover;
+.title-p {
+  font: sans-serif;
+  font-weight: 4;
+  position: relative;
+  color: #fff;
+  text-align: center;
+  padding: 2% 25% 1%;
+  left: 1.5;
 }
 
-.grid-para{
-	text-align: center;
-	color: #fff;
-	padding: 2% 7%;
-}   
-  
-
-#enquiries{
-	text-align: center;
-	padding: 5% 8%;
-	background-color: #fff;
-	 
+.read-me-btn {
+  margin-left: 40%;
+  padding: 1% 40px 1% 40px;
 }
 
- 
-.enquiries-para{
-	padding: 3% 20% 3%;
+#features {
+  text-align: center;
+  background-color: #8a8c92;
+  position: relative;
+  padding: 5% 10%;
 }
 
-
-
- 
-.box-1{
-	text-align: center;
-	color: #fff;
-	 width: 100%;
-	 height: 100%;
-	background-color: #3FA9F5;
-	padding: 6%;
-	margin: 0;
-	 
-	 
+.features-para {
+  padding: 3% 8%;
 }
 
-.contact-box2{
-	text-align: center;
-	color: #fff;
-	width: 100%;
-	height: 100%;
-	background-color: #333333;
-	padding: 6%;	
-	margin: 0;	 
-	 	 
+#Grid {
+  padding: 2% 15% 5% 15%;
+  background-color: lightslategray;
 }
 
-
-.contact-para1{
-	padding: 5.5%;
-
-}
- .contact-para2{
-	 padding: 2% 5%;
- }
- 
-#footer{
-	background-color: #000;
-    color: #fff;
-	 padding: 7px;
-	 text-align: center;
-    
-    
-   
+.col-lg-4 {
+  background-color: #000;
+  padding-bottom: 10%;
 }
 
- 
+.grid-img {
+  width: 100%;
+  height: 50%;
+  background-color: #BEC2CB;
+  object-fit: cover;
+}
+
+.grid-para {
+  text-align: center;
+  color: #fff;
+  padding: 2% 7%;
+}
+
+#enquiries {
+  text-align: center;
+  padding: 5% 8%;
+  background-color: #fff;
+}
+
+.enquiries-para {
+  padding: 3% 20% 3%;
+}
+
+.box-1 {
+  text-align: center;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  background-color: #3FA9F5;
+  padding: 6%;
+  margin: 0;
+}
+
+.contact-box2 {
+  text-align: center;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  background-color: #333333;
+  padding: 6%;
+  margin: 0;
+}
+
+.contact-para1 {
+  padding: 5.5%;
+}
+
+.contact-para2 {
+  padding: 2% 5%;
+}
+
+#footer {
+  background-color: #000;
+  color: #fff;
+  padding: 7px;
+  text-align: center;
+}
